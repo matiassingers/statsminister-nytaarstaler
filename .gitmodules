@@ -1,0 +1,3 @@
+[submodule "scrapers/statsministeriet/statsministeriet-speeches-scraper"]
+	path = scrapers/statsministeriet/statsministeriet-speeches-scraper
+	url = git@github.com:matiassingers/statsministeriet-speeches-scraper.git
