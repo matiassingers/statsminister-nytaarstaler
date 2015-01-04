@@ -8,14 +8,14 @@ The `data.json` files can contain the following properties:
 - **source** source of the text version
 - **date** New Years address date
 - **speaker** name of the Prime Minister
-- **rawHtml** (optional) if scraped from a website
 - **markdown** basically just cleartext version of the address, without any formatting
-- **video** (optional) link to video of the speech
-- **image** (optional)
+- **rawHtml** *(optional)** if scraped from a website
+- **video** *(optional)** link to video of the speech
+- **image** *(optional)**
 
 
 ### Sources
-See the `data.json` for each year, or check [`sources.md`](sources.md).
+See the `data.json` for each year, or check the combined [`sources.md`](sources.md) file.
 
 ## Missing years
 Statsministeriet only have a text version of the New Years addresses since 1998, as according to [this page](http://www.stm.dk/_a_1612.html).
