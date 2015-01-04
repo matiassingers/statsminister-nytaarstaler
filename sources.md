@@ -17,3 +17,4 @@
 - **1999** - http://www.stm.dk/_p_7659.html
 - **1998** - http://www.stm.dk/_p_7621.html
 - **1997** - http://www.b.dk/danmark/statsministerens-nytaarstale-1997
+- **1996** - http://www.b.dk/danmark/statsministerens-nytaarstale-1996
