@@ -4,4 +4,4 @@
 
 ## License
 
-MIT © Matias Singers <mail@matiassingers>(http://mts.io)
+MIT © [Matias Singers](http://mts.io)
