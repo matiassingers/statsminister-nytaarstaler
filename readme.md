@@ -8,10 +8,10 @@ The `data.json` files can contain the following properties:
 - **source** source of the text version
 - **date** New Years address date
 - **speaker** name of the Prime Minister
-- **markdown** basically just cleartext version of the address, without any formatting
-- **rawHtml** *(optional)** if scraped from a website
-- **video** *(optional)** link to video of the speech
-- **image** *(optional)**
+- **markdown** cleartext version of the address, without any formatting
+- **rawHtml** *(optional)* if scraped from a website
+- **video** *(optional)* link to video of the speech
+- **image** *(optional)*
 
 
 ### Sources
