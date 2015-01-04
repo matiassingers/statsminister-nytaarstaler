@@ -1,5 +1,5 @@
 # Statsministerens nytårstaler
-> collection of the Danish Prime Minister New Years addresses since 1995
+> collection of the Danish Prime Minister's New Years addresses since 1995
 
 The New Years addresses neatly formatted and put into order for machine processing or archival.
 
